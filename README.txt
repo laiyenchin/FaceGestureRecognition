@@ -4,7 +4,7 @@ Face Gesture Recognition using Python, Opencv, Fisherface
   python collectdata.py —-shape-predictor shape_predictor_68_face_landmarks.dat
 [in collectdata.py]
   need to change “facefilename” properly, the number after dot is an ID
-  IDs represents class labels
+  IDs represent class labels
   press key “c” to save the image to folder “data”
 
 2.Training with the collected data
